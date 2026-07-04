@@ -72,7 +72,7 @@ Computer Vision  ███████████░░░░ 80%
 NLP              ███████░░░░░░░░ 55%
 
 Data Science     ██████████░░░░░ 70%
-
+```
 
 ## 💻  Quote
 
@@ -106,6 +106,4 @@ Data Science     ██████████░░░░░ 70%
 ✨ Thanks for visiting my profile! ✨
 </h3>
 
-<p align="center">
-<i>"Learning AI one model at a time."</i>
-</p>
+
