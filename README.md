@@ -1,16 +1,143 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Isha Ayer</h1>
+<h3 align="center">Computer Engineering Student | AI & Machine Learning Enthusiast | Computer Vision Explorer</h3>
 
-<!--
-**Ishaayer/Ishaayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YzNmQyYmE2ZTV4YTB5ZmIwZWw0bHd6ZWV1MXI3N2l5YW5lMW5mdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering Student from **Nepal**
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**
+- 🌱 Currently learning
+  - Deep Learning
+  - YOLOv8
+  - OpenCV
+  - Hugging Face
+  - NLP
+- 💡 Interested in building intelligent applications that solve real-world problems
+- 📊 Exploring Data Science and AI Research
+- 🎯 Future Goal: Become an AI Engineer and pursue a Master's degree in Canada
+
+---
+
+## 🧠 AI/ML Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,git,github,vscode" />
+</p>
+
+### 📚 Machine Learning Libraries
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
+</p>
+
+---
+
+## 🔥 Current Projects
+
+🚗 **Real-Time Object Detection**
+- YOLOv8
+- OpenCV
+- Video Analytics
+
+💰 **Expense Tracker**
+- Python
+- SQL
+- Data Visualization
+
+🧠 **Image Segmentation**
+- U-Net
+- OpenCV
+- Medical Imaging Research
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 📚 Currently Learning
+
+```text
+Machine Learning ████████████░░░ 85%
+
+Deep Learning    ██████████░░░░░ 75%
+
+Computer Vision  ███████████░░░░ 80%
+
+NLP              ███████░░░░░░░░ 55%
+
+Data Science     ██████████░░░░░ 70%
+```
+
+---
+
+## 💻 AI Quote
+
+> "Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge">
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
+
+<p align="center">
+<i>"Learning AI one model at a time."</i>
+</p>
