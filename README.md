@@ -58,31 +58,7 @@
 - OpenCV
 - Medical Imaging Research
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
 
 ## 📚 Currently Learning
 
@@ -96,15 +72,13 @@ Computer Vision  ███████████░░░░ 80%
 NLP              ███████░░░░░░░░ 55%
 
 Data Science     ██████████░░░░░ 70%
-```
 
----
 
-## 💻 AI Quote
+## 💻  Quote
 
 > "Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -114,7 +88,7 @@ Data Science     ██████████░░░░░ 70%
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="www.linkedin.com/in/isha-ayer-aa2770246">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -124,15 +98,9 @@ Data Science     ██████████░░░░░ 70%
 
 </p>
 
----
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge">
 
-</p>
-
----
 
 <h3 align="center">
 ✨ Thanks for visiting my profile! ✨
